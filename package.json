@@ -1,6 +1,6 @@
 {
   "name": "opencode-copilot-chat",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Use 30+ AI models (DeepSeek, Kimi, GLM, Claude, GPT-5.5, Gemini, Grok) in GitHub Copilot Chat - free via BYOK. No Copilot Pro needed.",
   "main": "src/index.ts",
   "scripts": {
